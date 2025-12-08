@@ -26,3 +26,7 @@ Soy Ingeniero Empresarial apasionado por la calidad del software y la automatiza
 
 ---
 ![Estadísticas de Diego](https://github-readme-stats.vercel.app/api?username=diegoruizinga98-sys&show_icons=true&theme=radical)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diegoruizinga98-sys&show_icons=true&theme=radical&v=2" alt="Estadísticas de Diego" />
+</div>
