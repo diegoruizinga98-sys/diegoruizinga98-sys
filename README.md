@@ -25,8 +25,6 @@ Soy Ingeniero Empresarial apasionado por la calidad del software y la automatiza
 * [Email](mailto:tu_correo@ejemplo.com)
 
 ---
-![Estadísticas de Diego](https://github-readme-stats.vercel.app/api?username=diegoruizinga98-sys&show_icons=true&theme=radical)
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegoruizinga98-sys&show_icons=true&theme=radical&v=2" alt="Estadísticas de Diego" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegoruizinga98-sys&theme=radical" alt="Racha de Diego" />
 </div>
