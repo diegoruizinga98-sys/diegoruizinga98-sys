@@ -24,4 +24,5 @@ Soy Ingeniero Empresarial apasionado por la calidad del software y la automatiza
 * [LinkedIn](https://www.linkedin.com/diego-ruiz-inga-qa)
 * [Email](mailto:tu_correo@ejemplo.com)
 
-![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoruizinga98-sys&show_icons=true&theme=radical)
+---
+![Estadísticas de Diego](https://github-readme-stats.vercel.app/api?username=diegoruizinga98-sys&show_icons=true&theme=radical)
