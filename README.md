@@ -1,10 +1,8 @@
-# Hi, I'm Diego Ruiz Inga 👋
+# Hola, Soy Diego Ruiz Inga 👋
 
 ## 🎯 QA Engineer | Data Quality Engineer
 
-QA Engineer with a Data background, focused on guaranteeing software quality from inside the process — not just at the end. I combine test automation, API validation, and data quality to deliver reliable software.
-
-Bootcamp TripleTen QA Engineer · 2025 ✅
+Soy un QA Engineer con experiencia en Datos enfocado en garantizar la calidad del software desde adentro del proceso, no solo al final. Me especializo en diseñar estrategias de prueba que combinan testing manual, automatización y validación de datos para asegurar los requerimientos de los entregables antes de que lleguen al usuario. Mi formación en Ingeniería Empresarial me permite leer el software con lógica de negocio, conectando los requisitos funcionales con lo que realmente debe ocurrir en producción. A lo largo de mis proyectos en Quality Assurance he trabajado con herramientas como Selenium, Python, Postman y SQL, ejecutando desde pruebas de regresión cross-browser hasta validaciones de endpoints de API con más de 70 casos de prueba documentados. También incorporé IA generativa y Prompt Engineering para optimizar la creación de scripts y escenarios complejos, lo que me permite entregar resultados más rápido sin sacrificar cobertura; para ello, gestioné el ciclo completo de defectos en JIRA y documenté cada hallazgo con el nivel de detalle que un equipo de desarrollo necesita para actuar. Este enfoque refleja mi compromiso con la mejora continua y con entregar calidad en cada iteración.
 
 ---
 
