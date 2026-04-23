@@ -1,8 +1,12 @@
 # Hola, Soy Diego Ruiz Inga 👋
 
-## 🎯 QA Engineer | Data Quality Engineer
+## 🎯 QA ENGINEER con Experiencia en Datos | QA AUTOMATION | DATA QUALITY ENGINEER
 
-Soy un QA Engineer con experiencia en Datos enfocado en garantizar la calidad del software desde adentro del proceso, no solo al final. Me especializo en diseñar estrategias de prueba que combinan testing manual, automatización y validación de datos para asegurar los requerimientos de los entregables antes de que lleguen al usuario. Mi formación en Ingeniería Empresarial me permite leer el software con lógica de negocio, conectando los requisitos funcionales con lo que realmente debe ocurrir en producción. A lo largo de mis proyectos en Quality Assurance he trabajado con herramientas como Selenium, Python, Postman y SQL, ejecutando desde pruebas de regresión cross-browser hasta validaciones de endpoints de API con más de 70 casos de prueba documentados. También incorporé IA generativa y Prompt Engineering para optimizar la creación de scripts y escenarios complejos, lo que me permite entregar resultados más rápido sin sacrificar cobertura; para ello, gestioné el ciclo completo de defectos en JIRA y documenté cada hallazgo con el nivel de detalle que un equipo de desarrollo necesita para actuar. Este enfoque refleja mi compromiso con la mejora continua y con entregar calidad en cada iteración.
+Soy un QA Engineer con experiencia en Datos enfocado en garantizar la calidad del software desde el diseño del proceso. Me especializo en diseñar estrategias de prueba que combinan testing manual, automatización y validación de datos para asegurar la integridad de los entregables. Mi formación en Ingeniería Empresarial me permite alinear los requisitos funcionales con los objetivos de negocio en producción.
+
+Cuento con más de 1 año de experiencia liderando la automatización de pruebas mediante el uso de Selenium WebDriver y Python, además de la validación de endpoints de API con Rest Assured y Postman, ejecutando suites de más de 70 casos de prueba. Mi enfoque en Testing Continuo me permite integrar ciclos de ejecución en Jenkins, asegurando un flujo de despliegue ágil y confiable.
+
+Para la gestión del ciclo de vida del software, utilizo Jira + Xray como herramientas de Test Management, aplicando Gherkin para la definición de escenarios claros y colaborativos (BDD). Asimismo, he incorporado IA generativa y Prompt Engineering para optimizar la creación de scripts complejos, logrando una mayor cobertura en menor tiempo. Mi compromiso es entregar calidad en cada iteración, documentando hallazgos con la precisión técnica necesaria para facilitar la acción inmediata del equipo de desarrollo.
 
 ---
 
